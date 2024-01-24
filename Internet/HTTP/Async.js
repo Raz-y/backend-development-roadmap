@@ -28,7 +28,6 @@ const applyDamage = (damage, currentHP) => {
         }, 1000)
     });
 }
-
 function runApplyDamageTest(damage, currentHP) {
     console.log(`Applying ${damage} damage to enemy with ${currentHP} HP`);
     applyDamage(damage, currentHP)

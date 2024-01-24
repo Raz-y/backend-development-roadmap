@@ -126,7 +126,7 @@ async function getLocations() {
       "recommendedLevel": 14
   `)
   
-  console.log('---')
+    console.log('---');
   
   parseLocation(`
   {
