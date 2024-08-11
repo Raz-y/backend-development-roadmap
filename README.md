@@ -1,7 +1,7 @@
 # Backend Developer Roadmap
 
 ## Introduction
-Welcome to my journey through the Backend Developer Roadmap! This repository is a living document of my progress, challenges, and insights as I traverse the comprehensive roadmap laid out by [roadmap.sh](https://roadmap.sh/backend) and [raodmap.sh](https://roadmap.sh/r/tech-1go9l). Here, you'll find detailed documentation of each step, personal reflections, and a host of resources that have aided my learning process.
+Welcome to my journey through the Backend Developer Roadmap! This repository is a living document of my progress, challenges, and insights as I traverse the comprehensive roadmap laid out by [roadmap.sh](https://roadmap.sh/backend) and [CustomRoadmap.sh](https://roadmap.sh/r/tech-1go9l). Here, you'll find detailed documentation of each step, personal reflections, and a host of resources that have aided my learning process.
 
 ## Roadmap Overview
 The Backend Developer Roadmap is a structured guide designed for aspiring backend developers. It encompasses a variety of topics ranging from basic programming concepts to complex database management systems. Below is the roadmap for reference:
