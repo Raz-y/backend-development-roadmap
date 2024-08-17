@@ -14,14 +14,14 @@ The Backend Developer Roadmap is a structured guide designed for aspiring backen
 Progress is tracked to reflect the depth of understanding and completion of each section. The progress is visualized through a combination of progress bars and a tree structure, offering a clear view of the journey so far.
 
 ### Current Progress
-- [ ] Internet
+- [x] Internet
 - [ ] Learn a Language
   - [ ] JavaScript
-  - [ ] Go
+  - [x] Go
 - [ ] Version Control Systems
-  - [ ] Git 
+  - [x] Git 
 - [ ] Repo hosting services
-  - [ ] GitHub 
+  - [x] GitHub 
 - [ ] Relational Databases
   - [ ] PostgreSQL 
 - [ ] Learn about APIs
@@ -39,7 +39,7 @@ Progress is tracked to reflect the depth of understanding and completion of each
 - [ ] Containerization vs Virtualization
 - [ ] Web Servers (capitalize 'W' in Web)
 - [ ] NoSQL Databases
-  - [ ] MongoDB
+  - [x] MongoDB
   - [ ] Firebase 
 - [ ] Building for Scale
 - [ ] DevOps -> [CustomRoadmap.sh](https://roadmap.sh/r/tech-1go9l)
